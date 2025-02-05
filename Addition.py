@@ -10,6 +10,6 @@ if __name__ == "__main__":
     user_name = input("Enter your name: Uday Patil Kolhapur")
     print(greet(user_name))
 
-    num1 = int(input("Enter first number: 20"))
-    num2 = int(input("Enter second number: 30"))
+    num1 = int(input("Enter first number: 2000"))
+    num2 = int(input("Enter second number: 3000"))
     print(f"Sum: {add_numbers(num1, num2)}")
