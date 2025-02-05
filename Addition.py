@@ -1,6 +1,6 @@
 idef greet(name):
     """Function to greet a user."""
-    return f"Hello, {name}! Welcome to Git and GitHub learning."
+    return f"Hello, {devopd-multicloud}! Welcome to Git and GitHub learning."
 
 def add_numbers(a, b):
     """Function to add two numbers."""
