@@ -7,7 +7,7 @@ def add_numbers(a, b):
     return a + b
 
 if __name__ == "__main__":
-    user_name = input("Enter your name: Uday ")
+    user_name = input("Enter your name: Uday Patil Kolhapur")
     print(greet(user_name))
 
     num1 = int(input("Enter first number: 20"))
